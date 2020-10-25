@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ponzu-cms/ponzu/system/db"
-	"github.com/ponzu-cms/ponzu/system/item"
+	"github.com/tom-camp/ponzu/system/db"
+	"github.com/tom-camp/ponzu/system/item"
 )
 
 // ErrNoAuth should be used to report failed auth requests
