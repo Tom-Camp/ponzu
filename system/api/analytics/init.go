@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ponzu-cms/ponzu/system/cfg"
+	"github.com/tom-camp/ponzu/system/cfg"
 	bolt "go.etcd.io/bbolt"
 )
 

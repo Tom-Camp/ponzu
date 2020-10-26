@@ -8,7 +8,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/ponzu-cms/ponzu/system/admin/config"
+	"github.com/tom-camp/ponzu/system/admin/config"
 	bolt "go.etcd.io/bbolt"
 
 	"github.com/gorilla/schema"

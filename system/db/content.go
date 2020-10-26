@@ -12,8 +12,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ponzu-cms/ponzu/system/item"
-	"github.com/ponzu-cms/ponzu/system/search"
+	"github.com/tom-camp/ponzu/system/item"
+	"github.com/tom-camp/ponzu/system/search"
 	bolt "go.etcd.io/bbolt"
 
 	"github.com/gofrs/uuid"

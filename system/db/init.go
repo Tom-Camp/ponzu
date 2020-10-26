@@ -7,11 +7,11 @@ import (
 	"log"
 	"path/filepath"
 
-	"github.com/ponzu-cms/ponzu/system/cfg"
+	"github.com/tom-camp/ponzu/system/cfg"
 	bolt "go.etcd.io/bbolt"
 
-	"github.com/ponzu-cms/ponzu/system/item"
-	"github.com/ponzu-cms/ponzu/system/search"
+	"github.com/tom-camp/ponzu/system/item"
+	"github.com/tom-camp/ponzu/system/search"
 
 	"github.com/nilslice/jwt"
 )
